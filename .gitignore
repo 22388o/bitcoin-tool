@@ -1,2 +1,10 @@
-*.o
+*~ $ pkg update`
+> pkg update
+> pkg install git
+> git clone https://github.com/sarchar/Bitcoin-Tool
+> cd Bitcoin-Tool
+> `bash install.sh`
+> bash install.sh
+> python2 btool.py -k bc1qxlth5har0qasqvattsjvgp80st2x402u5shuud
 bitcoin-tool
+
